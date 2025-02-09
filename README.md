@@ -1,0 +1,1 @@
+This repository contains a simple JavaScript function that demonstrates a common coding error:  trying to access the `.length` property of a variable that might not be an array or string.  This can lead to runtime errors. The `bug.js` file shows the erroneous code, and `bugSolution.js` provides a corrected version with robust error handling.
